@@ -1,5 +1,14 @@
 <?php
 
+// AULA 1 DE PRÁTICA DE PHP:
+// - Uso da função ECHO para imprimir HTML
+// - Variáveis e seus tipos
+// - Debug com var_dump
+// - Criação e uso de array simples e de array com chave alterada
+// - Estrutura foreach
+// - Uso de iterador em estrutura de repetição
+// - Estrutura condicional if/elseif/else
+
 // Função ECHO para imprimir coisas no HTML
 echo "Olá mundo PHP!";
 echo "<br/>";
